@@ -4,7 +4,7 @@
   "type": "module",
   "main": "dist/worker/script.js",
   "scripts": {
-     "g": "git add . && git commit -m \"first commit\" && git push -u origin main -f",
+     "g": "git add . && git commit -m \"first commit\" && git push -u origin master -f",
     "dev": "vitedge --port 3333 --open --ssr",
     "dev:spa": "vitedge --port 3333 --open",
     "build": "vitedge build",
