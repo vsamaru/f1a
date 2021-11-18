@@ -3,7 +3,6 @@
   "private": true,
   "type": "module",
   "main": "dist/worker/script.js",
-
   "scripts": {
     "dev": "vitedge --port 3333 --open --ssr",
     "dev:spa": "vitedge --port 3333 --open",
