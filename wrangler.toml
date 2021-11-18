@@ -1,9 +1,7 @@
-name = "vitessedge"
+name = "x"
 type = "javascript"
-account_id = "<Account ID here>"
 workers_dev = true
-route = ""
-zone_id = ""
+compatibility_date = "2021-11-18"
 
 [site]
 bucket = "dist/client"
