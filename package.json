@@ -1,11 +1,9 @@
 {
-  "name": "my-app",
+  "name": "x",
   "private": true,
   "type": "module",
   "main": "dist/worker/script.js",
-  "engines": {
-    "node": ">=14.17"
-  },
+
   "scripts": {
     "dev": "vitedge --port 3333 --open --ssr",
     "dev:spa": "vitedge --port 3333 --open",
