@@ -8,7 +8,7 @@ bucket = "dist/client"
 entry-point = "."
 
 [build]
-command = "yarn build"
+command = ""
 watch_dir = "dist/worker"
 
 [build.upload]
