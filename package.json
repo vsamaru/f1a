@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vitedge --port 3333 --open --ssr",
     "dev:spa": "vitedge --port 3333 --open",
-    "build": "rm -rf dist && vitedge build",
+    "build": "vitedge build",
     "preview": "vitedge preview",
     "preview:watch": "vitedge preview --build-watch",
     "preview:wrangler": "wrangler dev",
