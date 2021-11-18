@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": ".",
+  
     "module": "ESNext",
     "target": "es2019",
     "lib": ["DOM", "ESNext", "WebWorker"],
